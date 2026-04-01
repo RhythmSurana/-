@@ -6,12 +6,6 @@ Paste a video link, ask questions, and get instant, relevant answers — without
 
 ---
 
-## 🚀 Demo
-
-👉 (Add your Streamlit link here)
-
----
-
 ## 💡 Overview
 
 We all spend hours watching long YouTube videos just to find one small piece of information.
